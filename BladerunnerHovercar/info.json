@@ -1,0 +1,10 @@
+{
+    "name" : "br-hover-car", 
+    "version" : "0.1.0",
+    "title" : "Blade Runner Hover Car", 
+    "author" : "Carson Crowley", 
+    "factorio_version" : "1.1", 
+    "dependencies" : ["base >= 1.1"], 
+    "description" : "This mod adds Officer K's Hover Car from Bladerunner 2049"
+}
+
