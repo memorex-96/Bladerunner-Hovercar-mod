@@ -1,14 +1,9 @@
 
-local hover_car = table.deepcopy(["car"]["car"])
+--make data.lua simply require from other files
+require("prototypes.entities")
+require("prototypes.items")
+require("prototypes.recipies")
+require("prototypes.technologies")
 
-hover_car.name = "hover-car"
-hover_car.icons = {
-  {
-    icon = hover_car.icon, 
-  }
-}
-
-local recipe = {
-  
-}
+--local hover_car = table.deepcopy(["car"]["car"])
 
